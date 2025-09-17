@@ -6,3 +6,7 @@
     Javascript
     Python
     Ruby
+3. SGBDS
+    Mysql
+    Postgree
+    Mongo
